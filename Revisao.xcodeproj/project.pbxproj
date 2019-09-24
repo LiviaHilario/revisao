@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		81612F33233928C700C2C9F8 /* Revisão.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Revisão.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		81612F33233928C700C2C9F8 /* Revisao.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Revisao.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		81612F36233928C700C2C9F8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		81612F38233928C700C2C9F8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		81612F3B233928C700C2C9F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		81612F34233928C700C2C9F8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				81612F33233928C700C2C9F8 /* Revisão.app */,
+				81612F33233928C700C2C9F8 /* Revisao.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		81612F32233928C700C2C9F8 /* Revisão */ = {
+		81612F32233928C700C2C9F8 /* Revisao */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 81612F45233928D400C2C9F8 /* Build configuration list for PBXNativeTarget "Revisão" */;
+			buildConfigurationList = 81612F45233928D400C2C9F8 /* Build configuration list for PBXNativeTarget "Revisao" */;
 			buildPhases = (
 				81612F2F233928C700C2C9F8 /* Sources */,
 				81612F30233928C700C2C9F8 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = "Revisão";
+			name = Revisao;
 			productName = "Revisão";
-			productReference = 81612F33233928C700C2C9F8 /* Revisão.app */;
+			productReference = 81612F33233928C700C2C9F8 /* Revisao.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 81612F2E233928C700C2C9F8 /* Build configuration list for PBXProject "Revisão" */;
+			buildConfigurationList = 81612F2E233928C700C2C9F8 /* Build configuration list for PBXProject "Revisao" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				81612F32233928C700C2C9F8 /* Revisão */,
+				81612F32233928C700C2C9F8 /* Revisao */,
 			);
 		};
 /* End PBXProject section */
@@ -315,7 +315,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		81612F2E233928C700C2C9F8 /* Build configuration list for PBXProject "Revisão" */ = {
+		81612F2E233928C700C2C9F8 /* Build configuration list for PBXProject "Revisao" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				81612F43233928D400C2C9F8 /* Debug */,
@@ -324,7 +324,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		81612F45233928D400C2C9F8 /* Build configuration list for PBXNativeTarget "Revisão" */ = {
+		81612F45233928D400C2C9F8 /* Build configuration list for PBXNativeTarget "Revisao" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				81612F46233928D400C2C9F8 /* Debug */,
